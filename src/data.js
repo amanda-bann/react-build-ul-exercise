@@ -36,6 +36,21 @@ const filterData = [
     id: 44,
     name: "Fitness Center",
     matchCount: 249
+},
+{
+    id: 45,
+    name: "Swimming Pool",
+    matchCount: 111
+},
+{
+    id: 46,
+    name: "Spa",
+    matchCount: 105
+},
+{
+    id: 47,
+    name: "Restaurant",
+    matchCount: 120
 }
 ];
 
